@@ -1,0 +1,13 @@
+nav div {
+    margin: auto;
+}
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
